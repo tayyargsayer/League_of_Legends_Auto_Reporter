@@ -1,7 +1,5 @@
 # **League of Legends Auto Reporter**
 
----
-
 ## Table of Contents
 
 - [Description](#description)
